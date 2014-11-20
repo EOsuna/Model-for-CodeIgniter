@@ -1,4 +1,6 @@
 Model-for-CodeIgniter
 =====================
 
-Custom model for Codeigniter - Custom model for codeigniter
+Custom model for Codeigniter - modelo propio para codeigniter
+
+
